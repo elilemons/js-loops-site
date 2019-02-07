@@ -1,3 +1,9 @@
+// // Uncomment this entire file to see the javascript in action
+// // The password is: secret
+// // Ctrl/Cmd + A to select the entire file
+// // Ctrl/Cmd + / to uncomment/comment the selection
+// // Ctrl/Cmd + s to save so the website will show the changes
+
 // let navItems = [
 //     "Home",
 //     "About",
